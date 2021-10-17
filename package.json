@@ -10,9 +10,28 @@
     "type": "git",
     "url": "git+https://github.com/tjohnston-softdev/papaparse-min.git"
   },
-  "keywords": [
-    "foo",
-    "bar"
+  "keywords":
+  [
+	"csv",
+	"parser",
+	"parse",
+    "parsing",
+    "delimited",
+    "text",
+    "data",
+    "auto-detect",
+    "comma",
+    "tab",
+    "pipe",
+    "file",
+    "filereader",
+    "stream",
+    "worker",
+    "workers",
+    "thread",
+    "threading",
+    "multi-threaded",
+    "jquery-plugin"
   ],
   "contributors":
   [
