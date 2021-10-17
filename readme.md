@@ -4,7 +4,7 @@ Mirror of the [papaparse](https://www.npmjs.com/package/papaparse) package that 
 
 ---
 
-README GOES HERE
+XXXXXXX
 
 ---
 

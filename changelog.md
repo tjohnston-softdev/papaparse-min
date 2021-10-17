@@ -1,4 +1,4 @@
 # Changelog
 
 **./readme.md**
-* Added dates for compile and release.
+* Simplified original contents placeholder.
