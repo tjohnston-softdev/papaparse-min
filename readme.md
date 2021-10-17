@@ -15,3 +15,8 @@ This repository is a mirror of the [papaparse](https://www.npmjs.com/package/pap
 This is not an official project. I have never directly worked on the 'papaparse' library and I am in no way affiliated with [@mholt](https://github.com/mholt), [@pokoli](https://github.com/pokoli), or any of their respective contributors. This is only a mirror of a package across different versions which have been published to NPM. I will not be actively maintaining the code itself but I will publish mirrors of new versions as they are released.
 
 \-[@tjohnston-softdev](https://github.com/tjohnston-softdev)
+
+---
+
+**Compiled:** 17 October 2021  
+**Released:** 23 October 2021
