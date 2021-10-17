@@ -14,7 +14,24 @@
     "foo",
     "bar"
   ],
-  "author": "John Smith",
+  "contributors":
+  [
+	{
+		"name": "Matthew Holt",
+		"role": "Original developer",
+		"url": "https://twitter.com/mholt6"
+	},
+	{
+		"name": "Sergi Almacellas Abellana ",
+		"role": "Current maintainer",
+		"url": "https://www.koolpi.com/"
+	},
+	{
+		"name": "Tyrone Johnston",
+		"role": "Publisher",
+		"url": "https://github.com/tjohnston-softdev"
+	}
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mholt/PapaParse/issues"
