@@ -1,3 +1,3 @@
 # Changelog
 
-Initial Commit
+Wrote template for 'readme.md'
