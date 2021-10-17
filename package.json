@@ -31,7 +31,17 @@
     "thread",
     "threading",
     "multi-threaded",
-    "jquery-plugin"
+    "jquery-plugin",
+	"minified",
+	"min",
+	"minimum"
+	"compiled",
+	"mirror",
+	"legacy",
+	"classic",
+	"compact",
+	"small",
+	"production"
   ],
   "contributors":
   [
