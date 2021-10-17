@@ -1,0 +1,23 @@
+{
+  "name": "papaparse-min",
+  "version": "0.0.0",
+  "description": "Minified version of 'papaparse' library.",
+  "main": "papaparse.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjohnston-softdev/papaparse-min.git"
+  },
+  "keywords": [
+    "foo",
+    "bar"
+  ],
+  "author": "John Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mholt/PapaParse/issues"
+  },
+  "homepage": "https://github.com/tjohnston-softdev/papaparse-min#readme"
+}
