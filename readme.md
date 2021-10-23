@@ -45,9 +45,8 @@ To learn how to use Papa Parse:
 
 - [Documentation](http://papaparse.com/docs)
 
-The website is hosted on on [Github Pages](https://pages.github.com/).  If
-you want to contribute just clone the gh-branch of this repository and
-open a pull request.
+The website is hosted on on [Github Pages](https://pages.github.com/). It's content is also inclued on the docs folder of this repository.  If
+you want to contribute on it just clone the master of this repository and open a pull request.
 
 
 Papa Parse for Node
@@ -65,7 +64,7 @@ For usage instructions, see the [homepage](http://papaparse.com) and, for more d
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.6.3), run `npm install`, then `npm test` to run the tests.
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/5.0.0), run `npm install`, then `npm test` to run the tests.
 
 Contributing
 ------------
