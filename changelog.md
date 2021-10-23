@@ -1,3 +1,3 @@
 # Changelog
 
-Version 4.3.7
+Version 4.4.0
