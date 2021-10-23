@@ -70,7 +70,7 @@ For usage instructions, see the [homepage](http://papaparse.com) and, for more d
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.2.0), run `npm install`, then `npm test` to run the tests in your browser.
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.0), run `npm install`, then `npm test` to run the tests in your browser.
 
 
 
