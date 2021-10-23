@@ -1,6 +1,6 @@
 {
   "name": "papaparse-min",
-  "version": "4.1.2",
+  "version": "4.1.3",
   "description": "Minified version of 'papaparse' library.",
   "main": "papaparse.min.js",
   "scripts": {
