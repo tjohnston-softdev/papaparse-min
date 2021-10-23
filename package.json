@@ -34,7 +34,7 @@
     "jquery-plugin",
 	"minified",
 	"min",
-	"minimum"
+	"minimum",
 	"compiled",
 	"mirror",
 	"legacy",
@@ -51,7 +51,7 @@
 		"url": "https://twitter.com/mholt6"
 	},
 	{
-		"name": "Sergi Almacellas Abellana ",
+		"name": "Sergi Almacellas Abellana",
 		"role": "Current maintainer",
 		"url": "https://www.koolpi.com/"
 	},
