@@ -41,26 +41,6 @@ Papa Parse for Node
 
 Papa Parse can parse a [Readable Stream](https://nodejs.org/api/stream.html#stream_readable_streams) instead of a [File](https://www.w3.org/TR/FileAPI/) when used in Node.js environments (in addition to plain strings). In this mode, `encoding` must, if specified, be a Node-supported character encoding. The `Papa.LocalChunkSize`, `Papa.RemoteChunkSize` , `download`, `withCredentials` and `worker` config options are unavailable.
 
-Additionally, [Rich Harris](https://github.com/Rich-Harris) forked this project to make **[Baby Parse](https://github.com/Rich-Harris/BabyParse)** which runs in Node.js environments.
-
-```bash
-$ npm install babyparse
-```
-
-[Baby Parse on npm registry](https://www.npmjs.org/package/babyparse)
-
-Use it just like Papa Parse. However:
-
-- Files are not supported; strings only (you can use Node's file facilities to load file contents yourself)
-- Some config options are unavailable:
-	- worker
-	- download (you can use Node's network facilities to download files yourself)
-	- encoding
-	- chunk
-
-Otherwise, Baby Parse has nearly all the same functionality as Papa Parse 4.0, including the `unparse()` utility.
-
-
 Get Started
 -----------
 
@@ -71,7 +51,7 @@ For usage instructions, see the [homepage](http://papaparse.com) and, for more d
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.5), run `npm install`, then `npm test` to run the tests in your browser.
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.6), run `npm install`, then `npm test` to run the tests in your browser.
 
 
 
