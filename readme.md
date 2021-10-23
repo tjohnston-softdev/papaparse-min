@@ -24,6 +24,16 @@ Papa Parse is the [fastest](http://jsperf.com/javascript-csv-parsers/4) in-brows
 
 Papa Parse has **no dependencies** - not even jQuery.
 
+Install
+-------
+
+'papaparse-min' is available on [npm](https://www.npmjs.com/package/papaparse-min). It
+can be installed with the following command:
+
+    npm install papaparse-min
+
+
+
 
 Homepage & Demo
 ----------------
@@ -34,6 +44,10 @@ Homepage & Demo
 To learn how to use Papa Parse:
 
 - [Documentation](http://papaparse.com/docs)
+
+The website is hosted on on [Github Pages](https://pages.github.com/).  If
+you want to contribute just clone the gh-branch of this repository and
+open a pull request.
 
 
 Papa Parse for Node
@@ -46,19 +60,18 @@ Get Started
 
 For usage instructions, see the [homepage](http://papaparse.com) and, for more detail, the [documentation](http://papaparse.com/docs).
 
-
-
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.6), run `npm install`, then `npm test` to run the tests in your browser.
-
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.7), run `npm install`, then `npm test` to run the tests.
 
 
 Contributing
 ------------
 
 To discuss a new feature or ask a question, open an issue. To fix a bug, submit a pull request to be credited with the [contributors](https://github.com/mholt/PapaParse/graphs/contributors)! Remember, a pull request, *with test*, is best. You may also discuss on Twitter with [#PapaParse](https://twitter.com/search?q=%23PapaParse&src=typd&f=realtime) or directly to me, [@mholt6](https://twitter.com/mholt6).
+
+If you contribute a patch, ensure the tests suite is running correctly. We run continuous integration on each pull request and will not accept a patch that breaks the tests.
 
 
 ---
