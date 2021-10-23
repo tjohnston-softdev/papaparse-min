@@ -66,7 +66,7 @@ For usage instructions, see the [homepage](http://papaparse.com) and, for more d
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.0.2) and open `tests/tests.html` in your browser to run them.
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.0.3) and open `tests/tests.html` in your browser to run them.
 
 
 
