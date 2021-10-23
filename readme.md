@@ -20,6 +20,7 @@ Papa Parse is the [fastest](http://jsperf.com/javascript-csv-parsers/4) in-brows
 - Pause, resume, abort
 - Can convert numbers and booleans to their types
 - Optional jQuery integration to get files from `<input type="file">` elements
+- One of the only parsers that correctly handles line-breaks and quotations
 
 Papa Parse has **no dependencies** - not even jQuery.
 
@@ -70,7 +71,7 @@ For usage instructions, see the [homepage](http://papaparse.com) and, for more d
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.2), run `npm install`, then `npm test` to run the tests in your browser.
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.3.3), run `npm install`, then `npm test` to run the tests in your browser.
 
 
 
