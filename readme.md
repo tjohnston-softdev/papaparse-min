@@ -9,10 +9,11 @@ Parse CSV with Javascript
 
 [![mholt on Gratipay](http://img.shields.io/badge/tips-accepted-brightgreen.svg?style=flat)](https://www.gratipay.com/mholt/)
 
-Papa Parse is the fastest CSV (or delimited text) parser for JavaScript. It is reliable and correct according to [RFC 4180](https://tools.ietf.org/html/rfc4180), and it comes with these features:
+Papa Parse is the [fastest](http://jsperf.com/javascript-csv-parsers/4) in-browser CSV (or delimited text) parser for JavaScript. It is reliable and correct according to [RFC 4180](https://tools.ietf.org/html/rfc4180), and it comes with these features:
 
 - Easy to use
 - Parse CSV files directly (local or over the network)
+- Fast mode ([is really fast](http://jsperf.com/javascript-csv-parsers/3))
 - Stream large files (even via HTTP)
 - Reverse parsing (converts JSON to CSV)
 - Auto-detect delimiter
@@ -29,7 +30,11 @@ Homepage & Demo
 ----------------
 
 - [Homepage](http://papaparse.com)
-- [Demo](http://papaparse.com/demo.html)
+- [Demo](http://papaparse.com/demo)
+
+To learn how to use Papa Parse:
+
+- [Documentation](http://papaparse.com/docs)
 
 
 Papa Parse for Node
@@ -59,14 +64,14 @@ Otherwise, Baby Parse has nearly all the same functionality as Papa Parse 3.0, i
 Get Started
 -----------
 
-For usage instructions, see the [homepage](http://papaparse.com) and, for more detail, the [documentation](http://papaparse.com/docs.html).
+For usage instructions, see the [homepage](http://papaparse.com) and, for more detail, the [documentation](http://papaparse.com/docs).
 
 
 
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.0.6) and open `tests/tests.html` in your browser to run them.
+Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/4.0.7) and open `tests/tests.html` in your browser to run them.
 
 
 
