@@ -1,4 +1,3 @@
 # Changelog
 
-**./package.json**
-* Fixed parsing errors.
+Version 4.0.1
