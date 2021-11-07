@@ -27,8 +27,8 @@ Papa Parse has **no dependencies** - not even jQuery.
 Install
 -------
 
-'papaparse-min' is available on [npm](https://www.npmjs.com/package/papaparse-min). It
-can be installed with the following command:
+'papaparse-min' is available on [npm](https://www.npmjs.com/package/papaparse-min).  
+It can be installed with the following command:
 
     npm install papaparse-min
 
@@ -40,30 +40,14 @@ Homepage & Demo
 
 - [Homepage](http://papaparse.com)
 - [Demo](http://papaparse.com/demo)
-
-To learn how to use Papa Parse:
-
 - [Documentation](http://papaparse.com/docs)
 
-The website is hosted on [Github Pages](https://pages.github.com/). Its content is also included in the docs folder of this repository. If you want to contribute on it just clone the master of this repository and open a pull request.
-
-
-Papa Parse for Node
---------------------
-
-Papa Parse can parse a [Readable Stream](https://nodejs.org/api/stream.html#stream_readable_streams) instead of a [File](https://www.w3.org/TR/FileAPI/) when used in Node.js environments (in addition to plain strings). In this mode, `encoding` must, if specified, be a Node-supported character encoding. The `Papa.LocalChunkSize`, `Papa.RemoteChunkSize` , `download`, `withCredentials` and `worker` config options are unavailable.
-
-Papa Parse can also parse in a node streaming style which makes `.pipe` available.  Simply pipe the [Readable Stream](https://nodejs.org/api/stream.html#stream_readable_streams) to the stream returned from `Papa.parse(Papa.NODE_STREAM_INPUT, options)`.  The `Papa.LocalChunkSize`, `Papa.RemoteChunkSize` , `download`, `withCredentials`, `worker`, `step`, and `complete` config options are unavailable.  To register a callback with the stream to process data, use the `data` event like so: `stream.on('data', callback)` and to signal the end of stream, use the 'end' event like so: `stream.on('end', callback)`.
-
-Get Started
------------
-
-For usage instructions, see the [homepage](http://papaparse.com) and, for more detail, the [documentation](http://papaparse.com/docs).
+The website is hosted on [Github Pages](https://pages.github.com/).
 
 Tests
 -----
 
-Papa Parse is under test. Download this version from the [original repository](https://github.com/mholt/PapaParse/releases/tag/5.3.1), run `npm install`, then `npm test` to run the tests.
+Download the [original repository](https://github.com/mholt/PapaParse), run `npm install`, then `npm test` to perform the tests.
 
 Contributing
 ------------
@@ -79,11 +63,9 @@ If you contribute a patch, ensure the tests suite is running correctly. We run c
 
 This repository is a mirror of the [papaparse](https://www.npmjs.com/package/papaparse) package for Node JS. It mirrors all versions from 4.0.0 onwards since this is when the package was first published to NPM. The reason this is a completely separate repository and not a fork is to keep the repository as small as possible without any unnecessary files. The original work is licensed under MIT and as such, I claim no personal copyright over this publication. All credit should go to the original developers ([@mholt](https://github.com/mholt), [@pokoli](https://github.com/pokoli), et al.)
 
-This is not an official project. I have never directly worked on the 'papaparse' library and I am in no way affiliated with [@mholt](https://github.com/mholt), [@pokoli](https://github.com/pokoli), or any of their respective contributors. This is only a mirror of a package across different versions which have been published to NPM. I will not be actively maintaining the code itself but I will publish mirrors of new versions as they are released.
+This is a only mirror of a package across different versions which have been published to NPM. Minified code cannot be directly maintained but mirrors of newer versions will be published as they are released.
 
 \-[@tjohnston-softdev](https://github.com/tjohnston-softdev)
 
 ---
 
-**Compiled:** 17 October 2021  
-**Released:** 23 October 2021
